@@ -93,23 +93,6 @@
     <scope>provided</scope>
 </dependency>
 
-<!-- https://mvnrepository.com/artifact/net.sourceforge.cobertura/cobertura -->
-<dependency>
-    <groupId>net.sourceforge.cobertura</groupId>
-    <artifactId>cobertura</artifactId>
-    <version>2.1.1</version>
-    <scope>test</scope>
-</dependency>
-
-<!-- https://mvnrepository.com/artifact/com.sun/tools -->
-<dependency>
-    <groupId>com.sun</groupId>
-    <artifactId>tools</artifactId>
-    <version>1.5.0</version>
-    <scope>system</scope>
-    <systemPath>C:\Program Files\Java\jdk-17\lib\tools.jar</systemPath>
-</dependency>
-
 <dependency>
     <groupId>org.slf4j</groupId>
     <artifactId>slf4j-api</artifactId>
